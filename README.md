@@ -1,9 +1,9 @@
 # Money-app
-# Moneey-app – Personal Finance Management App
+# Money-app – Personal Finance Management App
 
 Managing expenses has always been a crucial task for everyone, regardless of the era. In the past, people used to track their finances manually in notebooks, which often led to problems such as forgetting to log small expenses, losing the notebook, or recording incorrect or incomplete data.
 
-Today, with the widespread use of smartphones, financial management has become easier and more effective thanks to convenient applications. **Moneki** is a personal finance app developed to meet that very need.
+Today, with the widespread use of smartphones, financial management has become easier and more effective thanks to convenient applications. **Money-app** is a personal finance app developed to meet that very need.
 
 ## Key Features
 
@@ -16,7 +16,7 @@ Today, with the widespread use of smartphones, financial management has become e
 
 ## Objective
 
-Moneki aims to be a user-friendly application with a simple and intuitive interface, helping users manage their personal finances transparently and efficiently.
+Money-app aims to be a user-friendly application with a simple and intuitive interface, helping users manage their personal finances transparently and efficiently.
 
 ---
 
